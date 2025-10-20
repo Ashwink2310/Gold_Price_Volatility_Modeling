@@ -50,7 +50,7 @@ To compare classical and latent-state volatility models on gold returns (2022–
 ---
 
 ## Takeaway
-> **GARCH-t wins on fit, but POMP wins on interpretability** — making it the preferred model when *understanding* volatility behavior matters more than *blind prediction*.
+**GARCH-t wins on fit, but POMP wins on interpretability** — making it the preferred model when *understanding* volatility behavior matters more than *blind prediction*.
 
 ---
 
