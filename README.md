@@ -1,7 +1,7 @@
 # Gold Price Volatility Modeling
 
 ## TLDR
-Modeled daily gold price volatility using **three approaches — ARIMA (mean-only), GARCH (conditional variance), and POMP (latent-state volatility models)**. While GARCH with Student-t innovations provided the most efficient statistical fit, **POMP models such as Heston and Regime-Switching revealed hidden volatility regimes that traditional models could not capture**. This project demonstrates how **latent-state inference uncovers deeper market structure beyond surface-level variance modeling**.
+Modeled daily gold price volatility using **three approaches — ARIMA (mean-only), GARCH (conditional variance), and POMP (latent-state volatility models)**. While GARCH with Student-t innovations provided the most efficient statistical fit, **POMP models such as Heston and Regime-Switching revealed hidden volatility regimes that traditional models could not capture**. This project demonstrates how **latent-state inference uncovers deeper market structure beyond surface-level variance modeling**. Full execution requires cloud/high-memory runtime.
 
 ---
 
